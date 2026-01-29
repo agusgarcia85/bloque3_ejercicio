@@ -1,4 +1,8 @@
 La vida mola - Raul Gómez
 Harry Potter y el caliz de fuego - J.K. Rowling
 Inferno - Dan Brown
+<<<<<<< HEAD
 Bendita locura
+=======
+Sonorama
+>>>>>>> 09b8b66 (fix: Try new book)
